@@ -4,12 +4,6 @@
   }
 }
 
-@media (min-width: 768px) {
-  .w-md-100 {
-    width: 100% !important;
-  }
-}
-
 .jimmy-pic {
   width: 128px;
   height: 128px;
